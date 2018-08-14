@@ -10,3 +10,6 @@
 ![screenshot 29](https://user-images.githubusercontent.com/15280792/43996362-030cbbdc-9ddf-11e8-9cb1-36e7ca4ba1fb.png)
 ![screenshot 30](https://user-images.githubusercontent.com/15280792/43996364-08687dfa-9ddf-11e8-8d8a-d8c26c47c5f1.png)
 ![screenshot 31](https://user-images.githubusercontent.com/15280792/43996365-0b265c06-9ddf-11e8-8630-8abb9c697d45.png)
+
+
+https://javadeveloperzone.com/spring-boot/spring-boot-jndi-datasource-example/
